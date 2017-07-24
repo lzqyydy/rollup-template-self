@@ -1,6 +1,4 @@
 
-//import testComp from './components/test.vue';
-
 //import Vue from 'Vue';
 
 // Import a logger for easier debugging.
